@@ -1,3 +1,8 @@
 <resources>
-  <string name="app_name">BeRoozam Application</string>
+  <string name="app_name">YourAppName</string>
+  <string name="title_text">سیستم مدیریت وب سایت</string>
+  <string name="hint_phone_number">شماره موبایل:</string>
+  <string name="hint_password">کلمه عبور:</string>
+  <string name="button_enter">ورود</string>
+  <string name="button_enter_via_sms">ورود با رمز پیامکی</string>
 </resources>
