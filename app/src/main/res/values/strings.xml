@@ -5,4 +5,10 @@
   <string name="hint_password">کلمه عبور:</string>
   <string name="button_enter">ورود</string>
   <string name="button_enter_via_sms">ورود با رمز پیامکی</string>
+  <string name="button_enter_via_username">ورود با کلمه عبور ثابت</string>
+  <string name="button_confirm">تایید</string>
+  <string name="code_instruction_text">کد ارسال شده به شماره موبایل را وارد کنید</string>
+  <string name="code_hint_text">کد ورود:</string>
+  <string name="modify_number_text">اصلاح شماره موبایل</string>
+  <string name="button_enter_code">ورود</string>
 </resources>
